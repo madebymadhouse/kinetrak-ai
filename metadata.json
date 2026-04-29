@@ -1,0 +1,8 @@
+{
+  "name": "Kinetrak AI",
+  "description": "A live kinesiology tracking tool using MediaPipe for biomechanical posture and movement analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
